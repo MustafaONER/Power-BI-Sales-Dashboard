@@ -4,7 +4,7 @@ This project is a **Sales Analysis Dashboard** created using Microsoft Power BI.
 
 ## 📸 Dashboard Preview
 
-![Power BI Sales Dashboard](dashboard-preview.png)
+![Power BI Sales Dashboard](dashboard-preview.png.png)
 
 The dashboard provides an overview of sales performance and helps analyze important business metrics such as revenue, cost, profit and profit margin.
 
